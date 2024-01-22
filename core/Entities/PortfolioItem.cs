@@ -1,6 +1,6 @@
 ﻿namespace core.Entities
 {
-   public  class PortfolioItem : EntitiesBase
+    public class PortfolioItem : EntitiesBase
     {
         public string ProjectName { get; set; }
         public string Description { get; set; }
@@ -9,4 +9,3 @@
     }
 
 }
-    
